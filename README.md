@@ -1,9 +1,9 @@
 # Project-STFBW
 
-Class materials are organized by class:
+Τα σχολικά υλικά οργανώνονται ανά τάξη:
 
-- [Class A](Class-A/)
-- [Class B](Class-B/)
-- [Class C](Class-C/)
+- [Α' Τάξη](Α'-Τάξη/)
+- [Β' Τάξη](Β'-Τάξη/)
+- [Γ' Τάξη](Γ'-Τάξη/)
 
-Only add or link to books and other materials that you are allowed to share. Check the Greek ebooks website's terms and ask your teacher if you're unsure.
+Μόνο υλικά που επιτρέπεται να μοιράζεστε. Ελέγξτε τους όρους του ελληνικού ιστότοπου ebooks και ζητήστε από τον δάσκαλό/τη δασκάλα σας αν δεν είστε σίγουροι.
